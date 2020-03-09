@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 0px;
+  z-index: 5;
+}
+
+html,
+body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
